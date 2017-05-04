@@ -43,3 +43,10 @@ Providing meaning to chaos using Information (data), Innovation and achieving th
 1. Information
 1. Impossible
 
+# Questions
+
+1. What is important - goal vs results?
+1. What comes first - customer vs team (people) vs product?
+1. How do we handle - an error/ a mistake?
+1. How do we handle tough discussions - keeping quite vs being straight forward?
+1. How do we solve a problem - copy-paste vs innovate vs interate?
